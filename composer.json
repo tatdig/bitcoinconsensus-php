@@ -1,10 +1,10 @@
 {
-    "name": "bitwasp/bitcoinconsensus",
+    "name": "tatdig/bitcoinconsensus",
     "description": "Composer package containing stubs for bitcoinconsensus. Make sure your version is correct!",
     "type": "library",
     "license": "Unlicense",
-    "keywords": ["bitcoin", "script", "bitcoinconsensus", "transaction"],
-    "homepage": "https://github.com/Bit-Wasp/bitcoinconsensus-php",
+    "keywords": ["tdcoin", "script", "bitcoinconsensus", "transaction"],
+    "homepage": "https://github.com/tatdig/bitcoinconsensus-php",
     "require": {
         "php": ">=7.0"
     },
