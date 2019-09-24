@@ -1,5 +1,5 @@
 {
-    "name": "tatdig/bitcoinconsensus",
+    "name": "tatdig/tdcoinconsensus",
     "description": "Composer package containing stubs for bitcoinconsensus. Make sure your version is correct!",
     "type": "library",
     "license": "Unlicense",
